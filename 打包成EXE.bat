@@ -1,0 +1,1 @@
+pyinstaller -F --specpath .\NUTScript\ --distpath .\ --workpath .\NUTScript\ -y --clean NUTScript.py
