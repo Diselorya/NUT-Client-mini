@@ -1,12 +1,9 @@
 import time  
-import win32com.client  
 import nut2 as nut
 import os
 import configparser as cp
 import ctypes
-import pandas as pd
 import datetime
-import math
 
 # 将当前工作目录设置为脚本所在的路径
 # os.chdir(os.path.dirname(os.path.abspath(__file__)))
